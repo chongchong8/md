@@ -2,4 +2,12 @@
 # Manual reading guidelines
 * Chapter 1: Very general introduction. Is it helpful for the practical calculation skills? No. Thus, it is recommended to just through once and put more effort on the other important chapters. Recommendation **%**%%%%%
 * Chapter 2: Mention the units. Recommendation **%%**%%%%
+# Useful information
+## On youtube
+### Video 1. Free Energy of Solvation of Methane
+* from one [31 minutes video](https://www.youtube.com/watch?v=zodHyKUyUbM)
+* details of this video: 
+  It talks the thermodynamcs integration method, which is used to calculate the hydration free energy.
+## Gromacs Tutorials
+* from Justin A. Lemkul [7 tutorials available](http://www.mdtutorials.com/gmx/index.html)
 
