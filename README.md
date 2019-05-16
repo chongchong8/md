@@ -20,3 +20,7 @@ Online materials:
 
 # Setting mdp file
 Some popular parameters. I don't have to summarize it here. For reference, click link [here](http://manual.gromacs.org/documentation/2018/user-guide/mdp-options.html)
+## Run control
+integrator               = steep 
+integrator               = sd       ; Langevin dynamics
+
