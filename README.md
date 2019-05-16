@@ -19,16 +19,4 @@ Online materials:
 > Second from Justin A. Lemkul [tutorial 6](http://www.mdtutorials.com/gmx/free_energy/index.html)
 
 # Setting mdp file
-Some popular parameters
-## ; Run control
-## ; EM criteria and other stuff
-## ; Neighborsearching and short-range nonbonded interactions
-## ; Electrostatics
-## ; van der Waals
-## ; Apply long range dispersion corrections for Energy and Pressure
-## ; Spacing for the PME/PPPM FFT grid
-## ; EWALD/PME/PPPM parameters
-## ; Temperature and pressure coupling are off during EM
-## ; Free energy control stuff
-## ; Vectors of lambda specified here
-## ; Electrostatics
+Some popular parameters. I don't have to summarize it here. For reference, click link [here](http://manual.gromacs.org/documentation/2018/user-guide/mdp-options.html)
