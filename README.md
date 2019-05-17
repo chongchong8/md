@@ -12,6 +12,9 @@
 ## Gromacs Tutorials
 * from Justin A. Lemkul [7 tutorials available](http://www.mdtutorials.com/gmx/index.html)
 
+### Comprehensive Video
+* start from [video 31](https://www.youtube.com/watch?v=nKYrzrwaRmc&list=PLOzRYVm0a65fCJJQendwEEcSrC8iwvgBn&index=33)
+
 # Topic 1 Solvation energy
 Online materials:
 > First from Prof. B. L. Tembe Bombay [31 minutes video](https://www.youtube.com/watch?v=zodHyKUyUbM)
