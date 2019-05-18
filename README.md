@@ -1,4 +1,6 @@
 ### Back to [Table of content](https://chongchong8.github.io/home/)
+# Hot to install gromacs
+[one video](https://www.youtube.com/watch?v=MoRXFKqQPIk&list=PLOzRYVm0a65fCJJQendwEEcSrC8iwvgBn&index=35)
 # Manual reading guidelines
 * Chapter 1: Very general introduction. Is it helpful for the practical calculation skills? No. Thus, it is recommended to just through once and put more effort on the other important chapters. Recommendation **%**%%%%%
 * Chapter 2: Mention the units. Recommendation **%%**%%%%
