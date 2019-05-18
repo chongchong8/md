@@ -30,5 +30,5 @@ integrator               = steep
 integrator               = sd       ; Langevin dynamics
 ## I will summarize several examples for exercise
 ### Example 1: Water
-
+This example is based on [this video]https://www.youtube.com/watch?v=zCTGd5xYwoQ&list=PLOzRYVm0a65fCJJQendwEEcSrC8iwvgBn&index=36.
 
