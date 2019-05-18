@@ -28,4 +28,7 @@ Some popular parameters. I don't have to summarize it here. For reference, click
 ## Run control
 integrator               = steep 
 integrator               = sd       ; Langevin dynamics
+## I will summarize several examples for exercise
+### Example 1: Water
+
 
