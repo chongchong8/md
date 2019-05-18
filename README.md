@@ -32,3 +32,4 @@ integrator               = sd       ; Langevin dynamics
 ### Example 1: Water
 This example is based on [this video]https://www.youtube.com/watch?v=zCTGd5xYwoQ&list=PLOzRYVm0a65fCJJQendwEEcSrC8iwvgBn&index=36.
 
+The unit packmol pdb file is angstrom while gromacs uses nanometer.
