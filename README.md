@@ -22,7 +22,8 @@ Online materials:
 > First from Prof. B. L. Tembe Bombay [31 minutes video](https://www.youtube.com/watch?v=zodHyKUyUbM)
 
 > Second from Justin A. Lemkul [tutorial 6](http://www.mdtutorials.com/gmx/free_energy/index.html)
-
+# be careful with the format of pdb file
+<a href="http://tinypic.com?ref=2vjdhg5" target="_blank"><img src="http://i63.tinypic.com/2vjdhg5.png" border="0" alt="Image and video hosting by TinyPic"></a>
 # Setting mdp file
 Some popular parameters. I don't have to summarize it here. For reference, click link [here](http://manual.gromacs.org/documentation/2018/user-guide/mdp-options.html)
 ## Run control
