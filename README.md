@@ -34,3 +34,8 @@ integrator               = sd       ; Langevin dynamics
 This example is based on [this video]https://www.youtube.com/watch?v=zCTGd5xYwoQ&list=PLOzRYVm0a65fCJJQendwEEcSrC8iwvgBn&index=36.
 
 The unit packmol pdb file is angstrom while gromacs uses nanometer.
+
+## Practice makes perfect
+1. 6 tutorials [here]https://www.svedruziclab.com/tutorials/gromacs/
+
+2. 7 tutorials [here]http://www.mdtutorials.com/gmx/index.html
