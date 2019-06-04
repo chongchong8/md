@@ -39,3 +39,5 @@ The unit packmol pdb file is angstrom while gromacs uses nanometer.
 1. 6 tutorials [here]https://www.svedruziclab.com/tutorials/gromacs/
 
 2. 7 tutorials [here]http://www.mdtutorials.com/gmx/index.html
+
+3. using VMD [here]http://www.ks.uiuc.edu/Training/Tutorials/vmd/tutorial-html/index.html
