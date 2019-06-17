@@ -41,3 +41,7 @@ The unit packmol pdb file is angstrom while gromacs uses nanometer.
 2. 7 tutorials [here]http://www.mdtutorials.com/gmx/index.html
 
 3. using VMD [here]http://www.ks.uiuc.edu/Training/Tutorials/vmd/tutorial-html/index.html
+
+## Notes
+[editconf命令可以用于gro文件与pdb文件的相互转换。用-f指定源文件，-o指定所需文件名即可]https://www.cnblogs.com/w-guangyu/p/7787240.html
+
